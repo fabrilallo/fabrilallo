@@ -22,7 +22,7 @@ I work with many different technologies but my favorite ones are: <br>
 **Node.js**, **Fastify**, **Prisma**, **Docker** and **Kubernetes**
 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node.js" alt="Node.js Logo" width="100"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/fastify.svg" title="Fastify.js" alt="Fastify.js Logo" width="100"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/fastify.svg" title="Fastify" alt="Fastify Logo" width="100"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" title="Prisma" alt="Prisma Logo" width="70"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
