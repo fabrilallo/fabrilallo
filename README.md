@@ -15,6 +15,7 @@ ___
 <a href="https://app.daily.dev/flallo95"><img align='right' src="https://api.daily.dev/devcards/eaf61e7501624f76801029f495d3e34f.png?r=md1" width="300" alt="Fabrizio Lallo's Dev Card"/></a>
 
 <a href="https://twitter.com/FabriLallo"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/FabriLallo?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> 
+<br>
 
 ## 🧰 Tech Stack
  
