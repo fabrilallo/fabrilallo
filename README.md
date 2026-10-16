@@ -15,7 +15,7 @@ I'm particularly active on [LinkedIn](https://www.linkedin.com/in/fabrizio-lallo
 - **[XCompenso](https://xcompenso.com)** — A platform focused on salary transparency, career opportunities, and workplace insights for white-collar professionals in Italy.
 - **[FuffAnnuncio](https://fuffannuncio.com)** — A tool designed to identify low-quality, misleading, and questionable job advertisements.
 - **[Riccometro](https://riccometro.it)** — Find out whether you're rich or poor by comparing your income with that of other Italian taxpayers.
-- **[RALinchiaro](https://ralinchiaro.it)** — A searchable database of companies that disclose salary ranges (RAL) directly in their job advertisements.
+- **[RIC (RAL In Chiaro)](https://ralinchiaro.it)** — A searchable database of companies that disclose salary ranges (RAL) directly in their job advertisements.
 - **[SuperTrumpTracker](https://supertrumptracker.com)** — A complete, searchable timeline of Donald Trump's posts on X and Truth Social.
 
 ## 🛠️ What I do
