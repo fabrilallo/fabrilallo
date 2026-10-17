@@ -12,6 +12,7 @@ I'm particularly active on [LinkedIn](https://www.linkedin.com/in/fabrizio-lallo
 
 ## 🚀 Products I've built
 
+- **[Candydati](https://github.com/fabrilallo/candydati)** — An open, self-hostable agentic ATS built for candidates, not just recruiters.
 - **[XCompenso](https://xcompenso.com)** — A platform focused on salary transparency, career opportunities, and workplace insights for white-collar professionals in Italy.
 - **[FuffAnnuncio](https://fuffannuncio.com)** — A tool designed to identify low-quality, misleading, and questionable job advertisements.
 - **[Riccometro](https://riccometro.it)** — Find out whether you're rich or poor by comparing your income with that of other Italian taxpayers.
